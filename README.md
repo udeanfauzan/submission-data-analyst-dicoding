@@ -19,10 +19,10 @@ Hasil analisis dibuat ke dalam dashboard streamlit
 
 ### `dashboard/dashboard.py`
 1. Download project ini
-2. Install Streamlit pada terminal atau command prompt dengan `pip install streamlit`. Install juga library seperti matplotlib,pandas,dan seaborn. (Bisa diskip apabila sudah terinstall)
-3. Extract dan copy file pathnya
-4. Buka Command prompt
+2. Extract dan copy file pathnya
+3. Buka Command prompt
 4. Ketik D: atau Huruf lainnya sesuai file pathnya (Apabila file bukan di drive C:)
 5. ketik cd lalu paste filepath yang telah dicopy tadi
     contoh: `cd "D:\Dicoding\submission-data-analyst-dicoding-main"`
-6. ketik streamlit run dashboard/dashboard.py
+6. Pastikan requirement untuk menjalankan sudah terinstal, jika belum ketik `pip install -r requirements.txt`
+6. ketik streamlit `run dashboard/dashboard.py`
