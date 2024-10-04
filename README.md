@@ -25,4 +25,4 @@ Hasil analisis dibuat ke dalam dashboard streamlit
 5. ketik cd lalu paste filepath yang telah dicopy tadi
     contoh: `cd "D:\Dicoding\submission-data-analyst-dicoding-main"`
 6. Pastikan requirement untuk menjalankan sudah terinstal, jika belum ketik `pip install -r requirements.txt`
-6. ketik streamlit `run dashboard/dashboard.py`
+6. ketik `streamlit run dashboard/dashboard.py`
